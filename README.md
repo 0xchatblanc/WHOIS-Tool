@@ -146,6 +146,11 @@ This project is licensed under the [MIT License](LICENSE).
 - Built with [python-whois](https://pypi.org/project/python-whois/).
 - CLI styling powered by [colorama](https://pypi.org/project/colorama/).
 - Async execution with Python's `asyncio`.
+---
+
+## 💬 Stay Connected
+
+Created with ❤️ by **0xchatblanc**. For questions or suggestions, feel free to reach out or contribute to the repository! 🌟
 
 ---
 
